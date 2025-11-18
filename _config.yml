@@ -1,10 +1,10 @@
 # Site settings
-title: TO BE OR NOT TO BE
-SEOTitle: 三叶草国际语 - 让沟通更容易1
-header-img: img/post-bg-desk.jpg
-email: 456@gmail.com
-description: "中西融合, 即学即会, 从此不再辛苦背单词1"
-keyword: "人工语言, 国际语, 世界语, 三叶草国际语, 三叶语"
+title: TO BE OR NOT TO BE 	#左上及中间
+SEOTitle: ONE PERSON	#网页标签 
+header-img: img/post-bg-desk.jpg	#应该是主页图片
+email: 456@gmail.com	#主页上的邮箱地址
+description: "中西融合, 即学即会, 从此不再辛苦背单词"	#没找到是在哪儿
+keyword: "思考, 认真, 学习, 复杂, 世界"		#主页上的关键词
 url: "https://klovien.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/klovien/klovien.github.io.git" # you code repository
@@ -99,13 +99,13 @@ service-worker: true
 # 友情链接，请尽量不要删除，谢谢！
 friends: [
     {
-        title: "星球国际语",
-        href: "https://globien.gitee.io"
+        title: "我的主页",
+        href: "https://gracebrave.github.io"
     },{
-        title: "星球语互动社区",
-        href: "https://tieba.baidu.com/f?kw=%E6%A0%BC%E7%BD%97%E6%AF%94%E8%A8%80&fr=home"
+        title: "第二个",
+        href: "https://gracebrave.github.io"
     },{
-        title: "知乎：人造国际语",
-        href: "https://zhuanlan.zhihu.com/Artificial-International-Language"
+        title: "第三个",
+        href: "https://gracebrave.github.io"
     }
 ]
